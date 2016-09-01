@@ -23,4 +23,4 @@ Senha: <input type="password" name="senha" value="<?php echo $senha; ?>">
 <?php }
 else echo '<br /><a href="page2.php">page 2</a>';
 ?>
-teste
+
